@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello, I'm Fernando (wave) a student currently in their 8th semester of the Computer Science program. With experience as a QA, I have transitioned to a FullStack developer role. With a strong passion for technology and programming, I'm constantly seeking opportunities to expand their knowledge and skills in the field.
+Hello, I'm Fernando!
+ A student currently in their 8th semester of the Computer Science program. With experience as a QA, I have transitioned to a FullStack developer role. With a strong passion for technology and programming, I'm constantly seeking opportunities to expand their knowledge and skills in the field.
   </h3>
 <div>
   <a href="https://instagram.com/fernando.soares7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
